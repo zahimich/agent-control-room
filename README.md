@@ -4,6 +4,10 @@ A phone-first control room for a team of AI agents. I built it to see, from my p
 
 > Built by Zahi Michaeli, with a team of Claude agents.
 
+![The board, with demo data](images/board-demo.png)
+
+*The board with made-up demo data: what needs me, what is running, what is next.*
+
 ## Why
 
 I work with a team of agents that have defined roles (architect, DevOps and QA, privacy, UX, code reviewer, and a coordinator that routes between them). Once there are many sessions, the problem stops being "can the agent do it" and becomes "what is running, what is waiting for me, and what went quiet". A chat window does not answer that. A board does.
